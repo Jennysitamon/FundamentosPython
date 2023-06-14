@@ -4,6 +4,7 @@ teacher = {
     "phone": "234678955", 
     "groups": ["3BDSM", "3BDSM"]
 }
+
 print(type(teacher))
 print(teacher["name"])
 print(teacher["groups"])
